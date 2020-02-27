@@ -1,4 +1,4 @@
-![CI](https://github.com/hovey/pyschool/workflows/CI/badge.svg)
+![CI](https://github.com/hovey/pyschool/workflows/Zappy/badge.svg)
 
 # pyschool
 Examples of Best Practices and Pythonic Patterns
